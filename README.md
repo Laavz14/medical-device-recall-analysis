@@ -36,3 +36,7 @@ This SQL portfolio project analyzes global medical device recall data from the *
 ### Relationships:
 - `devices.manufacturer_id` → `manufacturers.id`
 - `events.device_id` → `devices.id`
+
+## Entity-Relationship Diagram (ERD)
+
+![ERD Diagram](erd/erd_diagram.png)
