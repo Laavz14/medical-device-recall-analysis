@@ -40,3 +40,10 @@ This SQL portfolio project analyzes global medical device recall data from the *
 ## Entity-Relationship Diagram (ERD)
 
 ![ERD Diagram](erd/erd_diagram.png)
+
+
+## 📊 Key Insights from the Analysis
+
+- **Top Recalling Manufacturer**: Medtronic had the highest number of recalls (7), making up 7.95% of total recalls.
+
+> See [sql/03_recall_analysis.sql](sql/03_recall_analysis.sql) for the query.
